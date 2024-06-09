@@ -1,12 +1,12 @@
 #contenedor {
-    background-color: #7DA0CA;
+    background-color: #903c39;
     position: relative;
     height: 800px;
     width: 1200px;
     left: 100px;
 }
 #encabezado {
-    background-color: #5483B3;
+    background-color: #903c39;
     position: absolute;
     height: 100px;
     width: 1160px;
@@ -19,11 +19,11 @@ line-height: inherit;
 font-weight: bold;
 font-variant: small-caps;
 text-transform: none;
-color: #000000;
+color: aliceblue;
 text-align: center;
 }
 #menu {
-background-color: #7DA0CA;
+background-color: #903c39;
 position: absolute;
 height: 600px;
 width: 150px;
@@ -48,7 +48,7 @@ font-weight: lighter;
 font-variant: normal;
 text-transform:unset;
 color: #000000;
-background-color: #C1E8FF;
+background-color: #903c39;
 position: absolute;
 height: 600px;
 width: 980px;
@@ -57,7 +57,7 @@ top: 120px;
 text-align:center;
 }
 #pie {
-background-color: #54B3B3;
+background-color: #903c39;
 position: absolute;
 height: 20px;
 width: 1160px;
@@ -103,14 +103,14 @@ ul, ol{
         top: 10px;
     }
     #galeria {
-        background-color: #C1E8FF;
+        background-color: #903c39;
         height: 100px;
         width: 860px;
         margin-top: 0px;
         margin-right: auto;
         margin-bottom: auto;
         margin-left: auto;
-        border: 1px solid #C1E8FF;
+        border: 1px solid #903c39;
         text-align: center;
     }
     #visor {
@@ -120,61 +120,61 @@ ul, ol{
         margin-right: auto;
         margin-bottom: auto;
         margin-left: auto;
-        border: 1px solid #C1E8FF;
+        border: 1px solid #903c39;
     }
     #Auto01 {
         height: 400px;
         width: 650px;
-        border: 1px solid #C1E8FF;
+        border: 1px solid #903c39;
         position: absolute;
         visibility: hidden;
     }
     #Auto02 {
         height: 400px;
         width: 650px;
-        border: 1px solid #C1E8FF;
+        border: 1px solid #903c39;
         position: absolute;
         visibility: hidden;
     }
     #Auto03 {
         height: 400px;
         width: 650px;
-        border: 1px solid #C1E8FF;
+        border: 1px solid #903c39;
         position: absolute;
         visibility: hidden;
     }
     #Auto04 {
         height: 400px;
         width: 650px;
-        border: 1px solid #C1E8FF;
+        border: 1px solid #903c39;
         position: absolute;
         visibility: hidden;
     }
     #Auto05 {
         height: 400px;
         width: 650px;
-        border: 1px solid #C1E8FF;
+        border: 1px solid #903c39;
         position: absolute;
         visibility: hidden;
     }
     #Auto06 {
         height: 400px;
         width: 650px;
-        border: 1px solid #C1E8FF;
+        border: 1px solid #903c39;
         position: absolute;
         visibility: hidden;
     }
     #Auto07 {
         height: 400px;
         width: 650px;
-        border: 1px solid #C1E8FF;
+        border: 1px solid #903c39;
         position: absolute;
         visibility: hidden;
     }
     #Auto08 {
         height: 400px;
         width: 650px;
-        border: 1px solid #C1E8FF;
+        border: 1px solid #903c39;
         position: absolute;
         visibility: hidden;
     }
