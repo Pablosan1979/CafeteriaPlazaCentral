@@ -1,0 +1,180 @@
+#contenedor {
+    background-color: #7DA0CA;
+    position: relative;
+    height: 800px;
+    width: 1200px;
+    left: 100px;
+}
+#encabezado {
+    background-color: #5483B3;
+    position: absolute;
+    height: 100px;
+    width: 1160px;
+    left: 20px;
+    top: 20px;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+font-size: 50px;
+font-style: italic;
+line-height: inherit;
+font-weight: bold;
+font-variant: small-caps;
+text-transform: none;
+color: #000000;
+text-align: center;
+}
+#menu {
+background-color: #7DA0CA;
+position: absolute;
+height: 600px;
+width: 150px;
+left: 20px;
+top: 120px;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+font-size: 16px;
+font-style: normal;
+line-height: normal;
+font-weight: normal;
+font-variant: normal;
+text-transform: none;
+color: #000000;
+text-align: left;
+}
+#contenido {
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+font-size: 18px;
+font-style: oblique;
+line-height: normal;
+font-weight: lighter;
+font-variant: normal;
+text-transform:unset;
+color: #000000;
+background-color: #C1E8FF;
+position: absolute;
+height: 600px;
+width: 980px;
+left: 200px;
+top: 120px;
+text-align:center;
+}
+#pie {
+background-color: #54B3B3;
+position: absolute;
+height: 20px;
+width: 1160px;
+left: 20px;
+bottom: 20px;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+font-size: 16px;
+font-style: oblique;
+line-height: normal;
+font-weight: bolder;
+font-variant: normal;
+text-transform: none;
+color: #000000;
+text-align: center;
+}
+ul, ol{
+        list-style: none;            
+    }
+.nav li a {        
+        color: aliceblue;
+        text-decoration: none;
+        padding: 10px 15px;
+        display: block;
+        
+    }
+    .nav li a:hover{
+        background-color: #434343;            
+    }
+    .nav > li{
+        float: left;
+    }
+    .nav li ul {
+        display: none;
+        position:absolute;
+        left: 0px;
+        min-width: 500px ;
+    }
+    .nav li:hover>ul{
+        display: block;
+    }
+    #carro01 {
+        position: absolute;
+        top: 10px;
+    }
+    #galeria {
+        background-color: #C1E8FF;
+        height: 100px;
+        width: 860px;
+        margin-top: 0px;
+        margin-right: auto;
+        margin-bottom: auto;
+        margin-left: auto;
+        border: 1px solid #C1E8FF;
+        text-align: center;
+    }
+    #visor {
+        height: 400px;
+        width: 650px;
+        margin-top: 0px;
+        margin-right: auto;
+        margin-bottom: auto;
+        margin-left: auto;
+        border: 1px solid #C1E8FF;
+    }
+    #Auto01 {
+        height: 400px;
+        width: 650px;
+        border: 1px solid #C1E8FF;
+        position: absolute;
+        visibility: hidden;
+    }
+    #Auto02 {
+        height: 400px;
+        width: 650px;
+        border: 1px solid #C1E8FF;
+        position: absolute;
+        visibility: hidden;
+    }
+    #Auto03 {
+        height: 400px;
+        width: 650px;
+        border: 1px solid #C1E8FF;
+        position: absolute;
+        visibility: hidden;
+    }
+    #Auto04 {
+        height: 400px;
+        width: 650px;
+        border: 1px solid #C1E8FF;
+        position: absolute;
+        visibility: hidden;
+    }
+    #Auto05 {
+        height: 400px;
+        width: 650px;
+        border: 1px solid #C1E8FF;
+        position: absolute;
+        visibility: hidden;
+    }
+    #Auto06 {
+        height: 400px;
+        width: 650px;
+        border: 1px solid #C1E8FF;
+        position: absolute;
+        visibility: hidden;
+    }
+    #Auto07 {
+        height: 400px;
+        width: 650px;
+        border: 1px solid #C1E8FF;
+        position: absolute;
+        visibility: hidden;
+    }
+    #Auto08 {
+        height: 400px;
+        width: 650px;
+        border: 1px solid #C1E8FF;
+        position: absolute;
+        visibility: hidden;
+    }

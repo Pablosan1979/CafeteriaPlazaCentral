@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "afterDelay",
+    "git.terminalGitEditor": true,
+    "github.gitAuthentication": false
+}
