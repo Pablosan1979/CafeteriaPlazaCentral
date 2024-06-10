@@ -26,7 +26,7 @@ text-align: center;
 background-color: #7c3a38;
 position: absolute;
 height: 650px;
-width: 160px;
+width: 170px;
 left: 20px;
 top: 120px;
 font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
@@ -84,7 +84,7 @@ ul, ol{
         
     }
     .nav li a:hover{
-        background-color: #434343;            
+        background-color: #666666;            
     }
     .nav > li{
         float: left;
