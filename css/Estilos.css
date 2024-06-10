@@ -26,7 +26,7 @@ text-align: center;
 background-color: #7c3a38;
 position: absolute;
 height: 650px;
-width: 170px;
+width: 155px;
 left: 20px;
 top: 120px;
 font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
@@ -41,20 +41,20 @@ text-align: left;
 }
 #contenido {
 font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
-font-size: 18px;
+font-size: 16px;
 font-style: oblique;
 line-height: normal;
 font-weight: lighter;
 font-variant: normal;
 text-transform:unset;
-color: #000000;
+color: aliceblue;
 background-color: #903c39;
 position: absolute;
 height: 600px;
 width: 980px;
 left: 200px;
 top: 120px;
-text-align:center;
+text-align:left;
 }
 #pie {
 background-color: #7c3a38;
